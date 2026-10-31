@@ -2,7 +2,7 @@
 
 ![Glassmorphism 预览](https://raw.githubusercontent.com/ucuw/Glassmorphism/main/Preview.png)
 
-## v2.1.01 更新内容
+## v2.1.1 更新内容
 
 ### 首页卡片
 - 延迟与丢包统一为按线路显示的合并 60 格色条，移除延迟、丢包分开两段的旧样式
